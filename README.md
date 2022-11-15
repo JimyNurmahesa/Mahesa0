@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahesa0
+- 👋 Hi, I’m @JimyNurmahesa
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning html bahasa pemrograman pertama saya
 - 💞️ I'm studying to become a front end developer
